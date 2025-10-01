@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76465c4f-897e-4f9b-ab6b-abab0d2dcb39" name="Changes" comment="Create project" />
+    <list default="true" id="76465c4f-897e-4f9b-ab6b-abab0d2dcb39" name="Changes" comment="Create project">
+      <change beforePath="$PROJECT_DIR$/programming_techniques_course" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +36,7 @@
     "Python.analysis.executor": "Run",
     "Python.hello.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
